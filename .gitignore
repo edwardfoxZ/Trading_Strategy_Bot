@@ -1,0 +1,4 @@
+HekinAshi_Macd/venv/ HekinAshi_Macd/.env/
+pycache/ *.pyc *.pyo *.pyd .Python
+*.egg-info/ dist/ build/
+.DS_Store *.log
